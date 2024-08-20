@@ -1,0 +1,93 @@
+
+.container {
+    background-color:white;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-left: 40%;
+    margin-right: 100%;
+    border: 20px;
+    border-radius: 30px;
+    box-sizing: border-box;
+    text-align: left;
+    margin: 50px;
+    margin-left: 20%;
+    margin-right: 55%;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+
+}
+body{
+    background-color: blue;
+}
+
+.container h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+ 
+.feed-name {
+    padding: 3px;
+    padding-left: 5px;
+    
+    
+}
+
+.feed-mail {
+    padding: 3px;
+    padding-left: 5px;
+}
+
+.feed-rating {
+    padding: 3px;
+}
+
+.feed-comment input {
+    padding: 10px;
+    width: 100%;
+    border-radius: 20px;
+    border: 0;
+}
+
+.container button {
+    margin: 10px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border: 0;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+.feed-name input {
+    width: 100%;
+    font-size: 1em;
+    padding: 2px;
+}
+
+.feed-mail input {
+    width: 100%;
+    font-size: 1em;
+    padding: 2px;
+}
+
+.feed-comment textarea {
+    width: 100%;
+    font-size: 1em;
+    padding: auto;
+}
+
+.feed-page {
+    background-color: white;
+    padding: 5px;
+    margin-right: 75%;
+    border-radius: 30px;
+    font-style:normal;
+
+}
+
+.feed-page h2 {
+    text-align: center;
+    
+}
